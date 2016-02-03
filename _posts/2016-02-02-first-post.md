@@ -1,6 +1,9 @@
 ---
 published: true
+layout: post
+title: Why Daryl Dixon is my boyfriend
 ---
+
 
 ![Put that crossbow inside me]({{site.baseurl}}/http://ecx.images-amazon.com/images/I/51Nz10bvPsL._SX342_.jpg)
 
