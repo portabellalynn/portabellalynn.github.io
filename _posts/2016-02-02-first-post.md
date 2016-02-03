@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 ---
 layout: post
 title: Why Daryl Dixon is my boyfriend
