@@ -76,3 +76,10 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    
+  metadata:
+    _posts:
+      - name: "post"
+        field:
+          title: "Name Me!"
+          layout: "post"
