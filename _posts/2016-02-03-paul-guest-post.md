@@ -1,6 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: "Test!"
 ---
+
 
 
 ## Hey, just testing if this working or not...
