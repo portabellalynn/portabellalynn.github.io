@@ -75,8 +75,11 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-    - CNAME
     
+    - CNAME
+prose:
+  siteurl: "http://portabellalynn.github.io/"
+  media: "images"
   metadata:
     _posts:
       - name: "published"
