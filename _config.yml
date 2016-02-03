@@ -76,3 +76,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    
+metadata:
+	- _post:
+    	field:
+          title: "value"
