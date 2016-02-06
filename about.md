@@ -8,6 +8,8 @@ published: true
 Be aware, watch the road, trust your nerves-
 
 
+
+
 Here's to the good times and the bad. 
 
 The ones who lost the fight and the ones still fighting 
@@ -21,6 +23,8 @@ Here's to the fresh brewed coffee
 Breakfast with a lover 
 
 Toast with jam and butter
+
+
 
 
 Let me feel this painful growth 
