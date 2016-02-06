@@ -7,16 +7,25 @@ published: true
 
 Be aware, watch the road, trust your nerves-
 
+
 Here's to the good times and the bad. 
+
 The ones who lost the fight and the ones still fighting 
+
 Here's to my sisters and brothers 
+
 My friends and my mentors
+
 Here's to the fresh brewed coffee
+
 Breakfast with a lover 
+
 Toast with jam and butter
 
-Never will there be a time without pain 
-but may there never be a time without hope
+
+Let me feel this painful growth 
+
+Let me hope forever and ever
 
 ### More Information
 
