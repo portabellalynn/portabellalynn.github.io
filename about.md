@@ -2,13 +2,24 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Be aware, watch the road, trust your nerves-
+
+Here's to the good times and the bad. 
+The ones who lost the fight and the ones still fighting 
+Here's to my sisters and brothers 
+My friends and my mentors
+Here's to the fresh brewed coffee
+Breakfast with a lover 
+Toast with jam and butter
+
+Never will there be a time without pain 
+but may there never be a time without hope
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
