@@ -5,31 +5,28 @@ permalink: /about/
 published: true
 ---
 
-Be aware, watch the road, trust your nerves-
 
+you asked me what I dreamt about last night
 
+i thought "I better make it interesting this time"
 
+so I went to the kitchen and dug out the paper plates 
 
-Here's to the good times and the bad. 
+under the sink behind the 409 
 
-The ones who lost the fight and the ones still fighting 
+and begun cutting the images out 
 
-Here's to my sisters and brothers 
+i asked our daughter to color them with pastels
 
-My friends and my mentors
+and as soon as the coffee was done 
 
-Here's to the fresh brewed coffee
+in my right hand 
 
-Breakfast with a lover 
+i brought you some with cream 
 
-Toast with jam and butter
+and in my left 
 
-
-
-
-Let me feel this painful growth 
-
-Let me hope forever and ever
+all of my dreams
 
 ### More Information
 
